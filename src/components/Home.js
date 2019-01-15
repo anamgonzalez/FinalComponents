@@ -9,14 +9,12 @@ import Footer from './Footer';
 function Home() {
   return (
     <div>
-    <Navbar />
       <article class="container-fluid" id="top">
 
         <Main />
 
 
       </article>
-      <Footer />
     </div>
   );
 }

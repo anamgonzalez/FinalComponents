@@ -148,6 +148,9 @@ PROJECTS
   text-align: center;
 }
 
+.projects img{
+  margin-left: 20%;
+}
 
 section#projects > div {
   padding: 10px 0 10px 0;
